@@ -1,4 +1,5 @@
 # Hey there! I'm Gopal. 👋
+![](https://komarev.com/ghpvc/?username=gopaladhikari)
 
 I'm a self-taught passionate FrontEnd developer from Nepal🇳🇵
 

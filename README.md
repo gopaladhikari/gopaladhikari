@@ -4,7 +4,7 @@
 
 I'm a self-taught passionate Full Stack Developer from Nepal🇳🇵.
 
-You can visit my [LinkedIn](https://www.linkedin.com/in/gopuadks/), [X](https://x.com/gopuadks) and my [Website](https://www.gopal-adhikari.com.np/).
+You can visit my <a href="https://www.linkedin.com/in/gopuadks/" target="_blank">LinkedIn</a>, <a href="https://x.com/gopuadks" target="_blank">X</a> and my <a href="https://www.gopal-adhikari.com.np/" target="_blank">Website</a>.
 
 **About me**
 
@@ -20,7 +20,7 @@ You can visit my [LinkedIn](https://www.linkedin.com/in/gopuadks/), [X](https://
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
@@ -72,7 +72,8 @@ You can visit my [LinkedIn](https://www.linkedin.com/in/gopuadks/), [X](https://
 
 ## Readme Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopaladhikari&layout=compact&theme=buefy&hide_border=true" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gopaladhikari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gopal's github stats" />

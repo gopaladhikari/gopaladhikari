@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+[![](https://visitcount.itsvg.in/api?id=gopaladhikari&icon=5&color=0)](https://visitcount.itsvg.in)
+
 I'm a self-taught passionate Full Stack Developer from Nepal🇳🇵.<br><br>You can visit my [LinkedIn](https://www.linkedin.com/in/gopuadks/), [X](https://x.com/gopuadks) and my [Website](https://www.gopal-adhikari.com.np/).<br><br>**About me**<br><br>- 💼 I am a Full Stack Engineer with expertise in both frontend and backend development.<br><br>- 🖥️ My frontend arsenal includes TypeScript, React.js, Next.js, and GraphQL.<br><br>- 💾 On the backend, I work with Node.js, Express.js, and databases like MongoDB and PostgreSQL.<br><br>- ☁️ I'm also diving into cloud computing with AWS.<br><br>- 💬 Ask me about anything [here](https://www.gopal-adhikari.com.np/contact)
 
 
@@ -19,6 +22,6 @@ I'm a self-taught passionate Full Stack Developer from Nepal🇳🇵.<br><br>You
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gopaladhikari&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

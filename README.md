@@ -14,11 +14,11 @@ I'm a self-taught passionate Full Stack Developer from Nepal🇳🇵.<br><br>You
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gopuadks/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gopuadks)
 
-<!-- # 💻 Most Used Languages
+💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopaladhikari"/>
-</p> -->
+</p> 
 
 # 📊 GitHub Stats:
 

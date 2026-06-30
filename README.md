@@ -1,27 +1,95 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Gopal%20Adhikari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20🇳🇵&descAlignY=55&descSize=18"/>
-</p>
+<div align="center">
 
-# Hey, I am Gopal Adhikari 🦈
+# Hi 👋 I'm Gopal Adhikari
+
+### Full Stack Engineer • TypeScript Enthusiast • Building Modern Web Applications
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=gopaladhikari&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <a href="https://gopuadks.dev">
+    <img src="https://img.shields.io/badge/Portfolio-gopuadks.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gopuadks/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gopal%20Adhikari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/gopuadks">
+    <img src="https://img.shields.io/badge/X-@gopuadks-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:contact@gopuadks.dev">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-I'm a self-taught passionate Full Stack Developer from Nepal🇳🇵.<br><br>You can visit my [LinkedIn](https://www.linkedin.com/in/gopuadks/), [X](https://x.com/gopuadks) and my [Website](https://www.gopal-adhikari.com.np/).<br><br>**About me**<br><br>- 💼 I am a Full Stack Engineer with expertise in both frontend and backend development.<br><br>- 🖥️ My frontend arsenal includes TypeScript, React.js, Next.js, and GraphQL.<br><br>- 💾 On the backend, I work with Node.js, Express.js, and databases like MongoDB and PostgreSQL.<br><br>- ☁️ I'm also diving into cloud computing with AWS.<br><br>- 💬 Ask me about anything [here](https://www.gopal-adhikari.com.np/contact)
+<img src="https://komarev.com/ghpvc/?username=gopaladhikari&label=Profile+Views&color=0e75b6&style=flat" />
 
-## 🌐 Socials:
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gopuadks/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gopuadks)
+---
 
-<!-- # 💻 Most Used Languages
+# 👨‍💻 About Me
+
+I'm a **Full Stack Engineer** from **Nepal 🇳🇵** passionate about building fast, scalable, and accessible web applications.
+
+I enjoy designing complete products—from beautiful frontend experiences to robust backend systems and APIs.
+
+Currently exploring:
+
+- 🤖 AI Applications & Agentic AI
+- 🚀 Performance, SEO & Developer Experience
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,redux,graphql,html,css,javascript" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,firebase,supabase,appwrite" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,cloudflare" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+[](https://github-readme-stats.vercel.app/api?username=gopaladhikari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=gopaladhikari&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gopaladhikari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+# 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopaladhikari"/>
-</p> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopaladhikari&theme=tokyo-night&hide_border=true"/>
+</p>
 
-# 📊 GitHub Stats:
+---
 
-![](https://github-readme-stats.vercel.app/api?username=gopaladhikari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gopaladhikari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gopaladhikari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+### ⭐ Thanks for stopping by!
+
+_"Code. Learn. Build. Repeat."_
+
+</div>

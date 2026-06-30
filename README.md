@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 <div align="center">
 
 # Hi 👋 I'm Gopal Adhikari
 
 ### Full Stack Engineer • TypeScript Enthusiast • Building Modern Web Applications
+=======
+# Hey, I am Gopal Adhikari 🦈
+>>>>>>> 9ab628d3dab4b0f60b8cb330fcfcac7ad0b25a9f
 
 <p>
   <a href="https://gopuadks.dev">
@@ -23,6 +27,7 @@
 
 </div>
 
+<<<<<<< HEAD
 ---
 
 # 👨‍💻 About Me
@@ -83,9 +88,13 @@ Currently exploring:
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopaladhikari&theme=tokyo-night&hide_border=true"/>
 </p>
+=======
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gopuadks/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.quora.com/profile/Gopal-Adhikari-138) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Gopal-Adhikari-138) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/gopuadks_/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17658400/gopal-adhikari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gopuadks)
+>>>>>>> 9ab628d3dab4b0f60b8cb330fcfcac7ad0b25a9f
 
 ---
 
+<<<<<<< HEAD
 <div align="center">
 
 ### ⭐ Thanks for stopping by!
@@ -93,3 +102,8 @@ Currently exploring:
 _"Code. Learn. Build. Repeat."_
 
 </div>
+=======
+![](https://github-readme-stats.vercel.app/api?username=gopaladhikari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gopaladhikari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gopaladhikari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+>>>>>>> 9ab628d3dab4b0f60b8cb330fcfcac7ad0b25a9f
